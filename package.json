@@ -18,18 +18,19 @@
     "postcss-loader": "^2.1.5",
     "raw-loader": "^0.5.1",
     "style-loader": "^0.21.0",
-    "ts-loader": "^4.4.1",
-    "tslint": "^5.10.0",
-    "typescript": "^2.9.2",
     "webpack": "^4.12.1",
     "webpack-command": "^0.3.0"
   },
   "dependencies": {
     "@ckeditor/ckeditor5-basic-styles": "^10.0.1",
+    "@ckeditor/ckeditor5-core": "^10.1.0",
     "@ckeditor/ckeditor5-dev-utils": "^9.0.1",
     "@ckeditor/ckeditor5-editor-classic": "^10.0.1",
+    "@ckeditor/ckeditor5-engine": "^10.1.0",
     "@ckeditor/ckeditor5-essentials": "^10.1.0",
+    "@ckeditor/ckeditor5-image": "^10.1.0",
     "@ckeditor/ckeditor5-paragraph": "^10.0.1",
-    "@ckeditor/ckeditor5-theme-lark": "^10.1.0"
+    "@ckeditor/ckeditor5-theme-lark": "^10.1.0",
+    "@ckeditor/ckeditor5-ui": "^10.1.0"
   }
 }
