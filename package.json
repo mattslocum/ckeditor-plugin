@@ -12,7 +12,7 @@
     "url": "git+ssh://git@bitbucket.org/mattslocum/ckeditor-plugin.git"
   },
   "author": "Matt Slocum",
-  "license": "private",
+  "license": "MIT",
   "homepage": "https://bitbucket.org/mattslocum/ckeditor-plugin#readme",
   "devDependencies": {
     "postcss-loader": "^2.1.5",
